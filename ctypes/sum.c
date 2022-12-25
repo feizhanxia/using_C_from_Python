@@ -1,3 +1,4 @@
+/* aaa */
 int our_function(int num_numbers, int *numbers) {
 	int i;
 	int sum = 0;

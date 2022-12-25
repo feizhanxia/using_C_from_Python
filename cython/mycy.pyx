@@ -1,3 +1,0 @@
-cdef int a
-a = 3
-print(a)

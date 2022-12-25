@@ -224,4 +224,4 @@ c++ -O3 -Wall -shared -std=c++11 -undefined dynamic_lookup $(python3 -m pybind11
 
 
 
-**注：**这个Note已经放在Github上，你可以在这里( [https://github.com/feizhanxia/using_C_from_Python](https://github.com/feizhanxia/using_C_from_Python) )找到这个Slide以及展示中用到的全部文件。
+**注：** 这个Note已经放在Github上，你可以在这里( [https://github.com/feizhanxia/using_C_from_Python](https://github.com/feizhanxia/using_C_from_Python) )找到这个Slide以及展示中用到的全部文件。
